@@ -1,0 +1,12 @@
+{
+  "primary-ceciliamay@@font-interface-theme": "\"Roboto Slab\", Georgia, Times New Roman, serif",
+  "primary-ceciliamay@@font-editor": "\"Roboto Slab\", Georgia, Times New Roman, serif",
+  "primary-ceciliamay@@font-editor-header": "\"Roboto Slab\", Georgia, Times New Roman, serif",
+  "primary-ceciliamay@@font-preview": "\"Roboto Slab\", Georgia, Times New Roman, serif",
+  "primary-ceciliamay@@font-preview-header": "\"Roboto Slab\", Georgia, Times New Roman, serif",
+  "primary-ceciliamay@@hide__sidedockribbon": "hide__sidedockribbon-hover",
+  "primary-ceciliamay@@vault-title__titlebar": true,
+  "primary-ceciliamay@@header-color__preset": "header-color__rainbow",
+  "primary-ceciliamay@@gray-md-formatting": true,
+  "primary-ceciliamay@@hide__metadata-box": false
+}
