@@ -22,6 +22,4 @@ Removal of the .gitignore file will push any custom settings to the remote repo,
 title: References
 - [Obsidian Git](https://github.com/denolehov/obsidian-git) - Plugin info
 - [Stackoverflow](https://stackoverflow.com/questions/35150667/how-to-ignore-a-directory-from-pull-on-remote-repository) - Ensured that .gitignore doesn't stop files from being pulled from remote 
-
-Author: 
 ```
