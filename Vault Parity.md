@@ -13,8 +13,15 @@ Inside the .gitignore file is a list of every file to be ignored git. `.obsidian
 
 To add more plugins to this list add `.obsidian/plugins/<plugin-name>/data.json` to the `.gitignore` file and it should allow users to customize their settings.
 
-
+```ad-warning
+title: Future Changes
+Removal of the .gitignore file will push any custom settings to the remote repo, meaning all users will automatically pull settings that they had previously customized! Don't do!
+```
+---
 ```ad-abstract
-title: Source
+title: References
+***Author: [[ZaiquiriW]]***
+***Links***
 https://github.com/denolehov/obsidian-git
+
 ```
