@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The GDD.md",
+            "file": "Vault Parity.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The GDD.md",
+                "file": "Vault Parity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "82215f4085292265",
   "lastOpenFiles": [
+    "Vault Parity.md",
     "The GDD.md",
     "Excalidraw/The GDD 2022-06-12 16.59.39.excalidraw.md",
     "Initial Idea.md",
@@ -96,7 +97,6 @@
     "Vault Notes.md",
     "Scratch.md",
     "README.md",
-    "Vault Parity.md",
     "Live Notes.md"
   ]
 }
