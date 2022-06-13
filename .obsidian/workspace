@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "6ff9e61df137aa63",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
