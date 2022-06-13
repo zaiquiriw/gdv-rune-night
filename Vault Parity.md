@@ -24,4 +24,4 @@ title: References
 - [Stackoverflow](https://stackoverflow.com/questions/35150667/how-to-ignore-a-directory-from-pull-on-remote-repository) - Ensured that .gitignore doesn't stop files from being pulled from remote 
 ```
 
-	[^1]: I don't know how footnotes work
+[^1]: I don't know how footnotes work
