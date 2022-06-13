@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Live Notes.md",
-            "mode": "preview",
+            "file": "Scratch.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Live Notes.md",
+                "file": "Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,14 +89,14 @@
   },
   "active": "82215f4085292265",
   "lastOpenFiles": [
+    "Scratch.md",
+    "README.md",
     "Live Notes.md",
     "Initial Idea.md",
     "Vault Parity.md",
     "The GDD.md",
     "Vault Notes.md",
     "Excalidraw/The GDD 2022-06-12 16.59.39.excalidraw.md",
-    "Excalidraw/The GDD 2022-06-12 16.36.11.excalidraw.md",
-    "Scratch.md",
-    "README.md"
+    "Excalidraw/The GDD 2022-06-12 16.36.11.excalidraw.md"
   ]
 }
