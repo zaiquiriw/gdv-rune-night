@@ -39,7 +39,7 @@ The witch is expected to have the common day cycle loop
 The Cabin that the player (the witch) lives around should be designed foremost. Part of what will make the witch feel like a 'witch' is the way their natural lifestyle creeps into their home. The Cabin serves functional purposes:
 - The Focus Plant (Thinking of a name, [[Bontictionary|reference vocab]]) should be growing in through the cabin, maybe starting indoors, and spreading into the cabin. Or perhaps starting inside until bursting through the cabin as it gains powers
 - The Bed! Honestly, beds are such an important thing in these games it's wild how few features they have. Sleep to pass the time at night! But let us not forget how this affects events, plot, rewards, and magic?
-- Saving? I think that this is the kind of game where you can have autosaves, but you save either just when you sleep or when 
+- Saving? I think that this is the kind of game where you can have autosaves, but you save either just when you sleep or when you actively save, like 
 ### Farming
 The player's cabin
 #### Objects Involved
