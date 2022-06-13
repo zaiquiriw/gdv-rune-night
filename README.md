@@ -1,6 +1,6 @@
 # Rune Night!
 >  **Warning**
-> This repo is meant to be viewed as an [Obsidian](https://obsidian.md/) Vault. While the majority of this repo is readable on github, some features (callouts/admonitions) lose some formatting. Please reference [Setup](#basic-setup) to learn how to use the advanced viewing experience in Obsidian
+> This repo is meant to be viewed as an [Obsidian](https://obsidian.md/) Vault. While the majority of this repo is readable on github, some features (callouts/admonitions) lose some formatting. Please reference [Basic Setup](#basic-setup) to learn how to use the advanced viewing experience in Obsidian
 ## Summary
 This is documentation for an indie game Rune Night. It is also a way for me to test Github's reliability as a collaborative tool with Obsidian
 
