@@ -22,4 +22,4 @@ A list of plugins used in this vault will help maintain a full understanding of 
 - Excalidraw: I want to learn how to use this for better note taking. One day!
 - Obsidian Git: Used to automatically push notes. More notes found in [[Vault Parity]]
 - Better Footnotes: In order to actually use footnotes a bit more effectively, this plugin just makes them more useful
-- 
+- Tidy Footnotes: Allows the reindexing of footnotes using a command
