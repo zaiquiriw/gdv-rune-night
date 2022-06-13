@@ -26,4 +26,4 @@ title: References
 ```
 
 [^1]: [Why git may not work at first](https://github.com/denolehov/obsidian-git/wiki/Installation#git-installation)
-[^2]: Please ignore this haha jk
+[^2]: This is very finnicky right now
