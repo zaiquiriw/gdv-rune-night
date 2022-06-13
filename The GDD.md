@@ -37,7 +37,7 @@ The witch is expected to have the common day cycle loop
 ## Feature Set
 ### The Cabin
 The Cabin that the player (the witch) lives around should be designed foremost. Part of what will make the witch feel like a 'witch' is the way their natural lifestyle creeps into their home. The Cabin serves functional purposes:
-- The Focus
+- The Focus Plant (Thinking of a name, [[Bontictionary|reference vocab]])
 ### Farming
 The player's cabin
 #### Objects Involved
