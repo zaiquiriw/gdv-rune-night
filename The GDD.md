@@ -42,6 +42,7 @@ The Cabin that the player (the witch) lives around should be designed foremost. 
 - **Saving?** I think that this is the kind of game where you can have autosaves, but you save either just when you sleep or when you actively save, like the journal in RuneFactory
 - **Storage:** I would like to replicate the frantic nature of a cluttered witch digging through their shelves, chests, jars, bottles, and hanging racks! So this is the highlight for me. We can get a chest, or perhaps we can program a collections of shelves, racks, bins, baskets, and piles! 
 - **Workspace:** I don't know how the player modifies resources, but it should happen *alot* in here, under the goal of tying the player to the emersive experience, rather then simplifying the gameplay
+- **Farming??** The player should be able to grow plants inside, maybe even be forced to start inside, as the first step in growing their land.
 ### Farming
 The player's cabin
 #### Objects Involved
