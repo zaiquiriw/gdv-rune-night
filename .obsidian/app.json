@@ -3,5 +3,6 @@
   "livePreview": true,
   "promptDelete": false,
   "attachmentFolderPath": "attatchments",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "spellcheck": true
 }

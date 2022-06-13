@@ -44,9 +44,10 @@ The Cabin that the player (the witch) lives around should be designed foremost. 
 - **Workspace:** I don't know how the player modifies resources, but it should happen *alot* in here, under the goal of tying the player to the emersive experience, rather then simplifying the gameplay
 - **Farming??** The player should be able to grow plants inside, maybe even be forced to start inside, as the first step in growing their land.
 ### Farming
-The player's cabin
+This requires an in depth look into how the tiling system of the game should be designed before development. Considering that is pretty much the first step in prototyping, it probably deserves a note tied to the first bout if discussion. For now, discussion is found in [[The Tilesystem]]
 #### Objects Involved
 #### Spacing & Planters
+
 #### Soil
 #### Plants
 #### Planting
@@ -60,6 +61,16 @@ What is this laid to rest on Mary's lap is sleeping
 
 ### The HUD
 
+### The Focal Plant
+```ad-warning
+title: I haven't got the memory to remember how this works
+```
+As the main tree grows, it represents the progress the player makes throughout the game, and every time the player tends to the tree or saves, the tree grows to reflect progress (possibly rewarding the player). We want to restart the game with past playthroughs reflecting progress on different (but very similar) future. We can do this by having the player 'trim' the tree in some way, or harvest a fruit and carry it's new seed.
+
+```ad-info
+title: Fun Idea
+What if the player grows the tree like an [[Bontictionary#^cdf056|espalier]] and guides branches as they save? Mechanically, we would alot the player a certain amount of growth per event (and perhaps some alotted amount of time passed to a maximum). Then, some hi-res branching object could be procerdularly grown and rendered as pixeled on the screen (doing this math with a pixel sprite would be upsetting I think).
+```
 ---
 ```ad-note
 title: Vault Details
