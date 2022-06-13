@@ -29,12 +29,25 @@ Create some design goals/pillars that every feature is supposed to support
 ## Game Loop
 ![[The GDD 2022-06-12 16.59.39.excalidraw]]
 The witch is expected to have the common day cycle loop
-## Importnant Moments
+## Important Moments
 ### Intro and Hook
 ### Repetive Feedbacks
 
 
 ## Feature Set
+
+### Farming
+#### Objects Involved
+#### Spacing & Planters
+#### Soil
+#### Plants
+#### Planting
+#### Harvesting
+#### Usage
+
+### Medicinal System
+#### idk but we should flesh it out since its part of the intro
+#### Tutorial
 
 
 ---
