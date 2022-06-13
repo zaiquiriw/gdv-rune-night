@@ -7,11 +7,9 @@
         "id": "82215f4085292265",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Scratch.md",
-            "mode": "source",
-            "source": false
+            "file": "assets/Illustration5.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scratch.md",
+                "file": "assets/Illustration5.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +87,11 @@
   },
   "active": "82215f4085292265",
   "lastOpenFiles": [
+    "assets/Illustration5.png",
+    "Initial Idea.md",
     "Scratch.md",
     "README.md",
     "Live Notes.md",
-    "Initial Idea.md",
     "Vault Parity.md",
     "The GDD.md",
     "Vault Notes.md",
