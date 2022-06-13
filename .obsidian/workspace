@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7fde844478479fb7",
+        "id": "82215f4085292265",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "The GDD.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "20e827c4015512da",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vault Notes.md",
             "mode": "source",
             "source": false
           }
@@ -65,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "257251bc2f08d440",
@@ -100,12 +87,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7fde844478479fb7",
+  "active": "82215f4085292265",
   "lastOpenFiles": [
     "The GDD.md",
+    "Excalidraw/The GDD 2022-06-12 16.59.39.excalidraw.md",
     "Initial Idea.md",
-    "README.md",
+    "Excalidraw/The GDD 2022-06-12 16.36.11.excalidraw.md",
     "Vault Notes.md",
+    "Scratch.md",
+    "README.md",
     "Vault Parity.md",
     "Live Notes.md"
   ]
