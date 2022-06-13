@@ -3,8 +3,9 @@ In order to set up a good documentation system for the [[gdv|game design vault]]
 
 ## Requirements
 1. Git is installed
-2. The user is logged in
-3. The user has a clone of the remote repository
+2. Git bash 
+3. The user is logged in
+4. The user has a clone of the remote repository
 
 The plugin should have all default settings cloned from the repo.
 

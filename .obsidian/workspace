@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Vault Parity.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -90,13 +90,13 @@
   "active": "82215f4085292265",
   "lastOpenFiles": [
     "Vault Parity.md",
-    "The GDD.md",
     "Vault Notes.md",
+    "Scratch.md",
+    "The GDD.md",
     "Live Notes.md",
     "Excalidraw/The GDD 2022-06-12 16.59.39.excalidraw.md",
     "Initial Idea.md",
     "Excalidraw/The GDD 2022-06-12 16.36.11.excalidraw.md",
-    "Scratch.md",
     "README.md"
   ]
 }
