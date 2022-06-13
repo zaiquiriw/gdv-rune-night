@@ -35,9 +35,11 @@ The witch is expected to have the common day cycle loop
 
 
 ## Feature Set
-I'll get to this later... today?
-
+### The Cabin
+The Cabin that the player (the witch) lives around should be designed foremost. Part of what will make the witch feel like a 'witch' is the way their natural lifestyle creeps into their home. The Cabin serves functional purposes:
+- The Focus
 ### Farming
+The player's cabin
 #### Objects Involved
 #### Spacing & Planters
 #### Soil
@@ -51,6 +53,7 @@ What is this laid to rest on Mary's lap is sleeping
 #### idk but we should flesh it out since its part of the intro
 #### Tutorial
 
+### The HUD
 
 ---
 ```ad-note
