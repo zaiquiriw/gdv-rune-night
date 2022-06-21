@@ -8,4 +8,5 @@ Henry Beston seems to be just an American Naturalist and Environmentalist. Yet, 
 
 This guy seems to just stare at the plants in the garden, using them for inspiration. And they are all mostly Eurasian. Bayberry, Beebalm, and Wintergreen are American, but the rest are all hidden somewhere in Europe and Asia.
 
+> something a little apart from the need of numbering and counting and completing which is in the blood of our years, something which is ofe earth and of time and of magic and of peace. Let the garden be small and secret if it will, if it be made with understanding  it shall gather in its leaves that which has no garden bound or measure.
 
